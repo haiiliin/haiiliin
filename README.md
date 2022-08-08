@@ -4,7 +4,7 @@
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with [abqpy](https://github.com/haiiliin/abqpy)
-- 💬 Ask me about Python, Abaqus
+<!-- - 💬 Ask me about Python, Abaqus ... -->
 - 📫 How to reach me: hailin.wang@connect.polyu.hk
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
