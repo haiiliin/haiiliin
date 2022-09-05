@@ -12,3 +12,5 @@
 ## GitHub Stats
 
 ![haiiliin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haiiliin&count_private=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=haiiliin)
