@@ -8,11 +8,3 @@
 - 📫 How to reach me: hailin.wang@connect.polyu.hk
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
-## GitHub Stats
-
-![haiiliin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haiiliin&count_private=true)
-
-## Most Used Languages
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=haiiliin&hide=html)
