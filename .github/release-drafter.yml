@@ -48,4 +48,4 @@ template: |
 
   $CHANGES
 
-  **Full Changelog**: https://github.com/haiiliin/haiiliin.github.io/compare/$PREVIOUS_TAG...v$RESOLVED_VERSION
+  **Full Changelog**: https://github.com/haiiliin/haiiliin/compare/$PREVIOUS_TAG...v$RESOLVED_VERSION
