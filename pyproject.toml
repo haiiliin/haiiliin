@@ -27,8 +27,8 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/haiiliin/haiiliin.github.io/"
-"Documentation" = "https://haiiliin-github-io.readthedocs.io/"
+"GitHub" = "https://github.com/haiiliin/haiiliin/"
+"Homepage" = "https://haiiliin.com/"
 
 [tool.setuptools]
 packages = ["hailin"]
