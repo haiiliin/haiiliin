@@ -8,6 +8,3 @@
 - 📫 How to reach me: hailin.wang@connect.polyu.hk or wanghailin@tongji.edu.cn
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
-![](https://raw.githubusercontent.com/haiiliin/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/haiiliin/github-stats/master/generated/languages.svg#gh-light-mode-only)
