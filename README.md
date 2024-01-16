@@ -8,3 +8,7 @@
 - 📫 How to reach me: hailin.wang@connect.polyu.hk or wanghailin@tongji.edu.cn
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+### Contributions
+
+![](./profile-3d-contrib/profile-season-animate.svg)
