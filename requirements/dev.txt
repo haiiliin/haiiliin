@@ -1,4 +1,0 @@
-black
-PyQt5
-pytest
-pytest-cov
