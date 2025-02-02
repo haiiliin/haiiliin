@@ -1,6 +1,10 @@
+### Hi there 👋
+
 Do not email me, I maybe slow to respond. Creating issues or discussions instead.
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
+
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#108](https://github.com/haiiliin/pyqtribbon/pull/108) in [haiiliin/pyqtribbon](https://github.com/haiiliin/pyqtribbon)
