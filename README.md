@@ -18,6 +18,3 @@ Do not email me, I maybe slow to respond. Creating issues or discussions instead
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-simple-->
-<!--END_SECTION:waka-simple-->
