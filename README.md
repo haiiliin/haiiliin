@@ -17,4 +17,9 @@ Do not email me, I maybe slow to respond. Creating issues or discussions instead
 ### :zap: Waka Time
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
