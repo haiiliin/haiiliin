@@ -7,11 +7,11 @@ Do not email me, I maybe slow to respond. Creating issues or discussions instead
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/haiiliin/quarto-chinese-journal/pull/1) in [haiiliin/quarto-chinese-journal](https://github.com/haiiliin/quarto-chinese-journal)
-2. 🗣 Commented on [#5967](https://github.com/haiiliin/abqpy/pull/5967#issuecomment-2669007302) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
-3. 💪 Opened PR [#5967](https://github.com/haiiliin/abqpy/pull/5967) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
-4. 🗣 Commented on [#5966](https://github.com/haiiliin/abqpy/issues/5966#issuecomment-2658698828) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
-5. 🎉 Merged PR [#108](https://github.com/haiiliin/pyqtribbon/pull/108) in [haiiliin/pyqtribbon](https://github.com/haiiliin/pyqtribbon)
+1. 🗣 Commented on [#1](https://github.com/haiiliin/quarto-chinese-journal/pull/1#issuecomment-2687730388) in [haiiliin/quarto-chinese-journal](https://github.com/haiiliin/quarto-chinese-journal)
+2. ❌ Closed PR [#1](https://github.com/haiiliin/quarto-chinese-journal/pull/1) in [haiiliin/quarto-chinese-journal](https://github.com/haiiliin/quarto-chinese-journal)
+3. 💪 Opened PR [#1](https://github.com/haiiliin/quarto-chinese-journal/pull/1) in [haiiliin/quarto-chinese-journal](https://github.com/haiiliin/quarto-chinese-journal)
+4. 🗣 Commented on [#5967](https://github.com/haiiliin/abqpy/pull/5967#issuecomment-2669007302) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+5. 💪 Opened PR [#5967](https://github.com/haiiliin/abqpy/pull/5967) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
 <!--END_SECTION:activity-->
 
 ### :zap: Waka Time
