@@ -9,9 +9,9 @@ Do not email me, I maybe slow to respond. Creating issues or discussions instead
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6077](https://github.com/haiiliin/abqpy/issues/6077#issuecomment-2862558451) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
-2. 🎉 Merged PR [#10](https://github.com/conda-forge/abqpy-feedstock/pull/10) in [conda-forge/abqpy-feedstock](https://github.com/conda-forge/abqpy-feedstock)
-3. 💪 Opened PR [#10](https://github.com/conda-forge/abqpy-feedstock/pull/10) in [conda-forge/abqpy-feedstock](https://github.com/conda-forge/abqpy-feedstock)
-4. 🎉 Merged PR [#6067](https://github.com/haiiliin/abqpy/pull/6067) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
-5. 💪 Opened PR [#6067](https://github.com/haiiliin/abqpy/pull/6067) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+1. 🔒 Closed issue [#6077](https://github.com/haiiliin/abqpy/issues/6077) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+2. 🎉 Merged PR [#6078](https://github.com/haiiliin/abqpy/pull/6078) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+3. 🗣 Commented on [#6077](https://github.com/haiiliin/abqpy/issues/6077#issuecomment-2862677179) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+4. 💪 Opened PR [#6078](https://github.com/haiiliin/abqpy/pull/6078) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+5. 🗣 Commented on [#6077](https://github.com/haiiliin/abqpy/issues/6077#issuecomment-2862656442) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
 <!--END_SECTION:activity-->
