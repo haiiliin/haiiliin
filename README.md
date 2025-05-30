@@ -9,9 +9,9 @@ Do not email me, I maybe slow to respond. Creating issues or discussions instead
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1023](https://github.com/jgm/pandoc/issues/1023#issuecomment-2914879919) in [jgm/pandoc](https://github.com/jgm/pandoc)
-2. 🎉 Merged PR [#106](https://github.com/haiiliin/pyqtribbon/pull/106) in [haiiliin/pyqtribbon](https://github.com/haiiliin/pyqtribbon)
-3. 🎉 Merged PR [#6089](https://github.com/haiiliin/abqpy/pull/6089) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
-4. 🎉 Merged PR [#114](https://github.com/haiiliin/pyqtribbon/pull/114) in [haiiliin/pyqtribbon](https://github.com/haiiliin/pyqtribbon)
-5. 💪 Opened PR [#6089](https://github.com/haiiliin/abqpy/pull/6089) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+1. 🗣 Commented on [#24](https://github.com/quarto-journals/elsevier/issues/24#issuecomment-2918411194) in [quarto-journals/elsevier](https://github.com/quarto-journals/elsevier)
+2. 🗣 Commented on [#1023](https://github.com/jgm/pandoc/issues/1023#issuecomment-2914879919) in [jgm/pandoc](https://github.com/jgm/pandoc)
+3. 🎉 Merged PR [#106](https://github.com/haiiliin/pyqtribbon/pull/106) in [haiiliin/pyqtribbon](https://github.com/haiiliin/pyqtribbon)
+4. 🎉 Merged PR [#6089](https://github.com/haiiliin/abqpy/pull/6089) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+5. 🎉 Merged PR [#114](https://github.com/haiiliin/pyqtribbon/pull/114) in [haiiliin/pyqtribbon](https://github.com/haiiliin/pyqtribbon)
 <!--END_SECTION:activity-->
