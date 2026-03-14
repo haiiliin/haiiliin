@@ -9,7 +9,7 @@ Do not email me, I maybe slow to respond. Creating issues or discussions instead
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](undefined) in [haiiliin/binder](https://github.com/haiiliin/binder)
+1. 🗣 Commented on [#1](https://github.com/hailin-wang/polyu-thesis-comments/issues/1#issuecomment-4053558256) in [hailin-wang/polyu-thesis-comments](https://github.com/hailin-wang/polyu-thesis-comments)
 2. ❌ Labeled PR [#10](undefined) in [haiiliin/binder](https://github.com/haiiliin/binder)
 3. 💪 Opened PR [#10](undefined) in [haiiliin/binder](https://github.com/haiiliin/binder)
 4. ❌ Labeled PR [#6341](undefined) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
