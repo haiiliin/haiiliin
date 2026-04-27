@@ -9,9 +9,9 @@ Do not email me, I maybe slow to respond. Creating issues or discussions instead
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/hailin-wang/polyu-thesis-comments/issues/1#issuecomment-4053558256) in [hailin-wang/polyu-thesis-comments](https://github.com/hailin-wang/polyu-thesis-comments)
-2. ❌ Labeled PR [#10](undefined) in [haiiliin/binder](https://github.com/haiiliin/binder)
-3. 💪 Opened PR [#10](undefined) in [haiiliin/binder](https://github.com/haiiliin/binder)
-4. ❌ Labeled PR [#6341](undefined) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
-5. ❌ Labeled PR [#6341](undefined) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+1. 🗣 Commented on [#341](https://github.com/RosettaCommons/binder/pull/341#issuecomment-4321985359) in [RosettaCommons/binder](https://github.com/RosettaCommons/binder)
+2. ❌ Reopened PR [#341](undefined) in [RosettaCommons/binder](https://github.com/RosettaCommons/binder)
+3. ❌ Closed PR [#341](undefined) in [RosettaCommons/binder](https://github.com/RosettaCommons/binder)
+4. 💪 Opened PR [#341](undefined) in [RosettaCommons/binder](https://github.com/RosettaCommons/binder)
+5. 🚀 Published release [v1.4.3](https://github.com/haiiliin/binder/releases/tag/v1.4.3) in [haiiliin/binder](https://github.com/haiiliin/binder)
 <!--END_SECTION:activity-->
