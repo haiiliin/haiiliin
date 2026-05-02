@@ -9,9 +9,9 @@ Do not email me, I maybe slow to respond. Creating issues or discussions instead
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#341](https://github.com/RosettaCommons/binder/pull/341#issuecomment-4321985359) in [RosettaCommons/binder](https://github.com/RosettaCommons/binder)
-2. ❌ Reopened PR [#341](undefined) in [RosettaCommons/binder](https://github.com/RosettaCommons/binder)
-3. ❌ Closed PR [#341](undefined) in [RosettaCommons/binder](https://github.com/RosettaCommons/binder)
-4. 💪 Opened PR [#341](undefined) in [RosettaCommons/binder](https://github.com/RosettaCommons/binder)
-5. 🚀 Published release [v1.4.3](https://github.com/haiiliin/binder/releases/tag/v1.4.3) in [haiiliin/binder](https://github.com/haiiliin/binder)
+1. 🚀 Published release [v1.4.3.post1 (No type dependencies)](https://github.com/haiiliin/binder/releases/tag/v1.4.3.post1) in [haiiliin/binder](https://github.com/haiiliin/binder)
+2. 🗣 Commented on [#341](https://github.com/RosettaCommons/binder/pull/341#issuecomment-4321985359) in [RosettaCommons/binder](https://github.com/RosettaCommons/binder)
+3. ❌ Reopened PR [#341](undefined) in [RosettaCommons/binder](https://github.com/RosettaCommons/binder)
+4. ❌ Closed PR [#341](undefined) in [RosettaCommons/binder](https://github.com/RosettaCommons/binder)
+5. 💪 Opened PR [#341](undefined) in [RosettaCommons/binder](https://github.com/RosettaCommons/binder)
 <!--END_SECTION:activity-->
