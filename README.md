@@ -9,9 +9,9 @@ Do not email me, I maybe slow to respond. Creating issues or discussions instead
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#23](undefined) in [haiiliin/abqpy-locale](https://github.com/haiiliin/abqpy-locale)
-2. 💪 Opened PR [#23](undefined) in [haiiliin/abqpy-locale](https://github.com/haiiliin/abqpy-locale)
-3. 💪 Opened PR [#6526](undefined) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
-4. ❌ Merged PR [#6516](undefined) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
-5. ❌ Closed PR [#6505](undefined) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+1. ❌ Unlabeled PR [#6615](undefined) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+2. ❌ Unlabeled PR [#6614](undefined) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+3. ❌ Unlabeled PR [#6613](undefined) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+4. ❌ Unlabeled PR [#6612](undefined) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
+5. ❌ Unlabeled PR [#6611](undefined) in [haiiliin/abqpy](https://github.com/haiiliin/abqpy)
 <!--END_SECTION:activity-->
